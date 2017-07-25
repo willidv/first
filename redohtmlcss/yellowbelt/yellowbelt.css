@@ -1,0 +1,135 @@
+.hades{
+    background-color: #1a1a1a;
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+}
+#melinoe{
+    display: inline-block;
+    /* margin-left: 75%; */
+    vertical-align: top;
+    color: #c6c8bd;
+}
+
+#macaria{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 780px;
+    margin-left: 40px;
+}
+.hera{
+    background-color: #444444;   
+}
+.aphrodite{
+    list-style-type: none; 
+}
+.aphrodite ul{
+    list-style-type: none; 
+    display: inline-block;
+
+    /* border-right: 10px;   */
+}
+.aphrodite ul li{
+    list-style-type: none; 
+}
+.aphrodite li a{
+    color: #a0a2a3;
+    font-size: 25px;
+    list-style-type: none; 
+    margin-left: 20px;
+    text-decoration: none;
+    /* border-right: 10px;   */
+}
+#hercules{
+    font-weight: 900;
+    color: #cbd1d5;
+}
+.apollo img{
+    width: 100%;
+}
+.atlas{
+    display: inline-block;
+    background-color: #1a1a1a;    
+    width: 22%;
+    margin-left: 15px;
+}
+.poseidon{
+    background-color: #1a1a1a;
+}
+.theseus{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+.orion{
+    display: inline-block;
+    vertical-align: top;
+    color: #ed7a27;
+    margin-top: 27px;
+    margin-left: 10px;
+}
+.triton{
+    color:#cac6bf;
+    vertical-align: top;
+    margin-left: 80px;
+    margin-top: -10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+}
+.lannister {
+    display: inline-block;
+    background-color: #070707;
+}
+.tyrion{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    display: inline-block;
+    width: 70%;
+    margin-right: 100px;
+    padding-left: 50px;
+}
+.jaime{ 
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: #f1944e;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    /* margin-left: 400px; */
+    border-radius: 10px;
+    display:inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+}
+#cersei{
+    vertical-align: top;
+    display: inline-block;
+}
+.zeus{
+    display: inline-block;
+    background-color: #1a1a1a;
+}
+.athena{
+    display: inline-block;
+    background-color: #1a1a1a;
+    color: white;
+}
+.hermes{
+    display: inline-block;
+    color: #e47626;
+    margin-left: 870px;
+}
+.detemer{
+    width: 22%;
+    margin-left: 20px;
+    display: inline-block;
+}
+.detemer h3{
+    color: #e47626;
+}
+.detemer p{
+    color: white;
+}

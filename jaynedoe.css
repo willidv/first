@@ -1,0 +1,89 @@
+.container{
+    background-color: #6f5964;
+    height: 100%;    
+}
+
+.header{
+    background-color: silver;
+}
+h1{
+    display: inline-block;
+    text-align: left;
+    font-family: comic sans ms;
+}
+h2{
+   text-align: right;
+    display: inline-block;
+    margin-left: 750px;
+}
+h3{
+    background-color: grey;
+    padding: 10px;
+    color: white;
+    
+}
+.About{
+    display: inline-block;
+    width: 600px;
+    background-color: #f7f3f6;
+    margin-left: 130px;
+    vertical-align: top;
+    margin-top: 20px;
+    height: 305px;
+
+}
+#picture{
+   
+    height: 300px;
+    margin: 20px;
+    border: width 10px; border-style: solid; color: silver;
+    margin-left: 60px;
+}
+.test{
+    display: inline-block;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 15px;
+    vertical-align: top;
+}
+#FC{
+    height: 570px;
+}
+
+#FE{
+    height: 540px;
+}
+.test img{
+    width: 100%;
+}
+
+.test ul li img{
+    width: 12%;
+}
+.test ul{
+    background-color: whitesmoke;
+}
+
+#hmu{
+    vertical-align: top;
+    margin-left: 550px;
+    font-style: normal;
+}
+.contactInfo img{
+    height: 20px;
+    margin-left: 100px;
+    
+}
+.contactInfo a{
+    display: inline-block;
+    font-style: italic;
+    font-size: 15pt;
+    vertical-align: center;
+}
+.contactInfo{
+    background-color: silver;
+    text-align: center;
+}
+.contactInfo p{
+    text-align: left;
+}

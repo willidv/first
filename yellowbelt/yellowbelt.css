@@ -1,0 +1,128 @@
+.hades{
+    background-color: #1a1a1a;
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+}
+#melinoe{
+    display: inline-block;
+    /* margin-left: 75%; */
+    vertical-align: top;
+    color: #c6c8bd;
+}
+
+#macaria{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 780px;
+    margin-left: 40px;
+}
+.hera{
+    background-color: #444444;   
+}
+.aphrodite{
+    list-style-type: none; 
+}
+.aphrodite ul{
+    list-style-type: none; 
+    display: inline-block;
+
+    /* border-right: 10px;   */
+}
+.aphrodite ul li{
+    list-style-type: none; 
+}
+.aphrodite li a{
+    color: #a0a2a3;
+    font-size: 25px;
+    list-style-type: none; 
+    margin-left: 20px;
+    text-decoration: none;
+    /* border-right: 10px;   */
+}
+#hercules{
+    font-weight: 900;
+    color: #cbd1d5;
+}
+.apollo img{
+    width: 100%;
+}
+.atlas{
+    display: inline-block;
+    background-color: #1a1a1a;    
+    width: 22%;
+}
+#theseus{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+#orion{
+    display: inline-block;
+    vertical-align: top;
+    color: #ed7a27;
+    margin-top: 27px;
+    margin-left: 10px;
+}
+#triton{
+    color:#cac6bf;
+    vertical-align: top;
+    margin-left: 80px;
+    margin-top: -10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+}
+.neleus{
+    display: inline-block;
+    background-color: #1a1a1a;    
+    width: 22%;
+}
+#agenor{
+    display: inline-block;
+    vertical-align: top;
+    color: #ed7a27;
+    margin-top: 27px;
+    margin-left: 10px;
+
+}
+#polyphemus{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#belus{
+    color:#cac6bf;
+    vertical-align: top;
+    margin-left: 80px;
+    margin-top: -10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+}
+.aeolus{
+    display: inline-block;
+    background-color: #1a1a1a;    
+    width: 22%;
+}
+#proteus{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#rhodes{
+    display: inline-block;
+    vertical-align: top;
+    color: #ed7a27;
+    margin-top: 27px;
+    margin-left: 10px;
+}
+#antaios{
+    color:#cac6bf;
+    vertical-align: top;
+    margin-left: 80px;
+    margin-top: -10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+}

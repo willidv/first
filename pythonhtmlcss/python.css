@@ -1,0 +1,152 @@
+.container{
+    background-color: #245176;
+   
+}
+.header{
+    
+    background-color: #245176;
+    display: inline-block;
+}
+.header img{
+    width: 400px;
+    display: inline-block
+}
+.search{     
+    width: 220px;
+    height: 30px;
+    background-color: #444444;
+    text-align: center;
+    padding: 10px;
+    margin-left: 1000px;
+    border-radius: 10px;
+    display:inline-block;
+  
+}
+.textSize{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.textSize p{
+    color: white;
+    vertical-align: top;
+    margin-left: 300px;
+    display: inline;
+}
+.textSize a{
+    display: inline;
+    vertical-align: top;
+    color: yellow;
+}
+.NavBar ul{
+    background-color: #437cac;
+    vertical-align: top;
+    margin-left: 170px;
+    
+}
+.NavBar ul li{
+    display: inline;
+    margin-left: 15px;
+    background-color: #437cac;
+    vertical-align: top;
+     
+}
+.NavBar ul li a{
+    color: white;
+    font-size: 30px;
+}
+
+.sidebar{
+    display: inline-block;
+    vertical-align: top;
+}
+.sidebar ul li{
+    color: white;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.sidebar a{
+    color: white;
+}
+.purpose p{
+    color: white;
+    vertical-align: top;
+    margin: 10px;
+    
+}
+.purpose{
+    width: 700px;   
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 100px;
+}
+
+#zen{
+    list-style-type: none;
+    vertical-align: top;
+    text-align: center;
+}
+.Zen ul{
+    font-size: 20px;
+    color: yellow;
+    background-color: #245176;
+    font-style: italic;
+      
+}
+.Zen ul li{
+    margin-top: 20px;
+    list-style-type: none;
+}
+
+.Zen p{
+    color: white;
+    margin-left: 50px;
+}
+#main_content{
+    display:inline-block;
+}
+
+#Applications{
+    display: inline-block;
+    width:35%;
+    margin-left: 200px;
+    vertical-align: top;
+    text-align: center;
+  
+}
+#Applications p a{
+    color: #7aa3c7;
+}
+#GS{
+    display: inline-block;
+    width: 35%;
+    margin-left: 90px;
+    vertical-align: top;
+    text-align: center;
+   
+}
+#GS ul li a{
+    color: #7aa3c7;
+}
+#Applications ul li a{
+    color: #7aa3c7;
+}
+
+.stuff{
+    background-color: white;
+}
+.finisher p{
+    color: #84b6e2;
+    background-color: #26567d;
+    display: inline-block;
+    margin-left: 5%;
+}
+.finisher{
+    margin-left: 320px;
+}
+.finisher h6{
+    margin-left: 300px;
+    color: #84b6e2;
+    background-color: #26567d;
+}

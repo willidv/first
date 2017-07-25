@@ -1,0 +1,54 @@
+.container{
+    background-color: lightblue;
+   
+}
+.header{
+    background-color: red;
+    margin: 10px;
+    padding-bottom: 10px;
+    
+}
+.nav-bar{
+    background-color: teal;
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    margin: 10px;
+    color: lightblue;
+}
+a{
+    color:lightblue;
+}
+li a{
+    color: lightblue;
+}
+.main-content{
+    display: inline-block;
+    background-color: darkblue;
+    width: 75%;
+    margin: 10px;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+li p{
+    color: white;
+}
+li p a{
+    color: teal;
+}
+.footer{
+    background-color: gray
+    
+}
+.footer{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+*{
+    border-radius:5px; 
+}
